@@ -1,0 +1,16 @@
+h1{
+	color:blue;
+}
+img{
+	max-width:10%;
+	float:right;
+	margin:10px;
+	border:solid black 5px;
+}
+.wrapper{
+	max-width: 70%;
+	margin: 0 auto;
+	border:dashed #053D75 20px;
+	padding:10px;
+	background-color:#587999
+}

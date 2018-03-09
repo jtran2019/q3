@@ -1,0 +1,58 @@
+h1{
+	background-color:#E0EEC6;
+	font-size: 50px;
+	text-align: center;
+	color:#00241B;
+	font-family:"Courier New",monospace;
+}
+h1:hover{
+	visibility: hidden;
+}
+img{
+	max-width:20%;
+	float:left;
+	margin:15px;
+	border:solid black 5px;
+	clear:left;
+}
+.wrapper{
+	max-width:80%;
+	margin: 0 auto;
+	border:dashed #00241B 20px;
+	padding:10px;
+	background-color:#5CA884
+}
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+}
+h2{
+	font-family:"Courier New",monospace;
+}
+body{
+	background-color:#6E9CA0;
+}
+/* unvisited link */
+a:link{
+    color:#00241B;
+}
+
+/* visited link */
+a:visited{
+    color:#BFDBF7;
+}
+
+/* mouse over link */
+a:hover{
+    color:hotpink;
+}
+
+/* selected link */
+a:active{
+    color:yellow;
+}
+
+

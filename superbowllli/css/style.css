@@ -1,0 +1,41 @@
+body{
+	background-color:#C14545;
+}
+.wrapper{
+	max-width: 70%;
+	margin: 0 auto;
+	border:dashed #053D75 20px;
+	padding:10px;
+	background-color:#587999
+}
+h1{
+	color:red;
+}
+img{
+	max-width:15%;
+	float:right;
+	margin:10px;
+	border:solid black 5px;
+}
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+}
+li{
+	clear:right;
+}
+.brady {
+	float:left;
+}
+h3{
+	color:#DE5368;
+}
+p{
+	color:white;
+}
+ol{
+	color:white;
+}

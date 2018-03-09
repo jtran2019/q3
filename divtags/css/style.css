@@ -1,0 +1,43 @@
+.wrapper{
+	background-color:#FFC414;
+	margin:0 auto;
+	max-width:85%;
+}
+body{
+	background-color:white;
+}
+section{
+	background-color:#FFEA68;
+}
+h1{
+	text-align:center;
+	background-color:#0096B5;
+	color:#FFBD19;
+}
+h2{
+	background-color:#FFC414;
+	color:#0096B5;
+	text-align:center;
+}
+h3{
+	color:#08B8D8;
+}
+footer{
+	text-align:center;
+}
+img{
+	max-width:20%;
+	float:right;
+	margin:15px;
+	border:solid black 5px;
+}
+.clearfix:after{
+	content:".";
+	visibility: hidden;
+	display:block;
+	height:0;
+	clear:both;
+}
+article{
+	clear:right;
+}
